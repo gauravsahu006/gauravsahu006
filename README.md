@@ -25,19 +25,3 @@
 I love building modern and responsive websites.
 
 ---
-
-## 📊 GitHub Stats
-
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsahu006&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gauravsahu006)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsahu006&layout=compact)
